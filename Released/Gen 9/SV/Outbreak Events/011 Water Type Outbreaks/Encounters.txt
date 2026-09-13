@@ -1,0 +1,19 @@
+Event Outbreak Identifier: 20240607
+
+Finizen Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkKindly (5%)
+	Region: Paldea
+
+Lotad Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkKindly (5%)
+	Region: Kitakami
+
+Horsea Mass Outbreak
+	Level: 10-65
+	Shiny: Standard rate
+	Ribbon: MarkKindly (5%)
+	Region: Blueberry Academy
